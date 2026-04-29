@@ -66,10 +66,6 @@ Hyperparameters were tuned using grid search over:
 | Same Time Last Week  | 2027.67| 1188.632 | 4.55%  |
 | XGBoost Model        | 232.56 | 170.32 | 0.66%    |
 
-Model,MAE,RMSE,MAPE (%)
-Previous Interval,311.796,450.234,1.217
-Same Time Last Week,1188.632,2027.675,4.554
-Same Time Yesterday,2445.878,4124.434,9.309
 The XGBoost model significantly outperformed all baseline methods, reducing error by approximately 48% compared to the best baseline.
 
 ---
